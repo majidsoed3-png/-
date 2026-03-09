@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Remix: مكتب الوطن للخدمات الرقمية",
+  "description": "منصة الحلول الرقميه ",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
